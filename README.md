@@ -1,5 +1,4 @@
 # creative-web3-ideas
-# Creative Web3 Ideas
 A collection of my personal thoughts and concepts about future technology, AI, and Web3.
 
 ## Example Concept
